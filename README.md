@@ -25,6 +25,11 @@ Unlike the Zika virus, CHIKV infection is associated with recurring joint pain a
 4. **SEIR Model:** Implemented to simulate the progression of Chikungunya in a population.
 5. **Jupyter Notebooks:** Enables interactive data exploration, analysis, and model visualization.
 6. **Matplotlib and Seaborn:** Utilized for creating insightful visualizations of model outputs and predictions.
+7. **Scikit-learn:** Applied for machine learning algorithms and model evaluation.
+8. **NumPy:** Supports numerical operations and array manipulations in the data science pipeline.
+9. **Scipy:** Utilized for scientific and technical computing, enhancing statistical analysis.
+10. **Geospatial Analysis Tools:** Incorporate tools like GeoPandas and Folium for mapping and visualizing spatial data.
+
 
 ## How to Use
 
